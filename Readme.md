@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/24/user/95883).
-* Наставник: `Неизвестно`.
+* Студент: [Сергей Янаков](https://htmlacademy.ru/profile/id95883).
+* Наставник:[Андрей Островский](https://htmlacademy.ru/profile/grandmaus).
+ 
 
 ---
 
